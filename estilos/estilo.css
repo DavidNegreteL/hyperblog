@@ -1,6 +1,6 @@
 body
 {
-    color: #333;
+    color: firebrick;
     text-align: center;
     font-family: Arial;
     font-size: 16px;
@@ -31,6 +31,7 @@ body
     padding: 0;
     text-align: left;
     border: 1px solid #DDD;
+    border-radius: 5px;
     margin: 0 auto;
 }
 
