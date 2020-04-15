@@ -45,3 +45,18 @@ body
 {
     padding: 1em;
 }
+
+#site-footer {
+    background-color: #333333;
+    margin: 0 auto;
+    padding: 3rem 0;
+    width: 70%;
+    border: 1px solid #DDD;
+    border-radius: 5px;
+    text-align: center;
+}
+
+#copyright {
+    margin: 0;
+    color: #ffffff;
+}
