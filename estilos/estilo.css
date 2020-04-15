@@ -2,18 +2,20 @@ body
 {
     color: firebrick;
     text-align: center;
-    font-family: Arial;
     font-size: 16px;
     margin: 0;
     padding: 0;
+
+    font-family:'Courier New', Courier, monospace;
 }
 
 #cabecera
 {
-    background:darkcyan;
+    background:dodgerblue;
     box-shadow: 0px 2px 20px 0px rgba(0,0,0,0.5);
     color: white;
     font-weight: bold;
+    font-size: 30px;
     margin: 0;
     padding: 0.5em;
 }
@@ -30,7 +32,7 @@ body
     width: 70%;
     padding: 0;
     text-align: left;
-    border: 1px solid #DDD;
+    border: 3px solid darkgray;
     border-radius: 5px;
     margin: 0 auto;
 }
